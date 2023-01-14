@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://hebinon.github.io/bin./sitemap.xml
+Sitemap: https://hebinon.github.io/bin/sitemap.xml
