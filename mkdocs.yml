@@ -1,0 +1,55 @@
+site_name: BIN
+
+site_url: http://hebin.art
+
+nav:
+  - Home: index.md
+  
+  - Work: 
+     - Artwork: 
+        - Hand drawn: Handdrawn.md
+        - Digital Painting: DigitalPainting.md
+     - Design: 
+        - UI design: UIdesign.md
+        - Game design: Gamedesign.md
+     - Product Manager: PM.md
+
+  - About: About.md
+  - Contact: Contact.md
+  - Blog:
+    - blog/index.md
+  
+theme:
+  features:
+    - navigation.tabs
+    - header.autohide
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+  logo: assets/logo.png
+  favicon: assets/logo.png
+  name: material
+  language: zh
+  palette:
+    primary: white
+    
+    
+copyright: Copyright &copy; 2023 - 20205 hebin
+
+extra:
+  social:
+    - icon: fontawesome/brands/weixin
+      link: https://hebin.app.tc
+      
+    - icon: fontawesome/brands/zhihu
+      link: https://hebin.app.tc
+      
+    - icon: fontawesome/brands/weibo
+      link: https://hebinon.weibo.com
+ 
+  generator: false
+  
+plugins:
+  - blog
+  - search
+  - offline
