@@ -1,6 +1,6 @@
 site_name: BIN
 
-site_url: http://hebin.art
+site_url: https://hebinon.dpdns.org/
 
 nav:
   - Home: index.md
@@ -12,6 +12,7 @@ nav:
      - Design: 
         - UI design: UIdesign.md
         - Game design: Gamedesign.md
+        - Graphic design: Graphicdesign.md
      - Product Manager: PM.md
 
   - About: About.md
@@ -22,10 +23,15 @@ nav:
 theme:
   features:
     - navigation.tabs
+    - navigation.tabs.sticky
     - header.autohide
     - navigation.footer
     - search.suggest
     - search.highlight
+    - navigation.instant.preview
+    - navigation.path
+    - navigation.instant
+    - navigation.instant.progress
   logo: assets/logo.png
   favicon: assets/logo.png
   name: material
@@ -34,18 +40,18 @@ theme:
     primary: white
     
     
-copyright: Copyright &copy; 2023 - 20205 hebin
+copyright: Copyright&copy; 2023 - 2026 hebin
 
 extra:
   social:
     - icon: fontawesome/brands/weixin
-      link: https://hebin.app.tc
+      link: https://picabstract-preview-ftn.weiyun.com/ftn_pic_abs_v3/de45373fae51d7bf57549b8f447525e6aa08871f2783d8b7172062c223b68829cc7ef2ef795366fb108bc57cef540717?pictype=scale&from=30113&version=3.3.3.3&fname=wx.png&size=750
       
-    - icon: fontawesome/brands/zhihu
-      link: https://hebin.app.tc
+    - icon: fontawesome/solid/envelope
+      link: mailto:<hebinon@163.com>
       
-    - icon: fontawesome/brands/weibo
-      link: https://hebinon.weibo.com
+    - icon: fontawesome/brands/bilibili
+      link: https://space.bilibili.com/148924458
  
   generator: false
   

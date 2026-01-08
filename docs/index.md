@@ -1,3 +1,12 @@
-[![作品集](https://picabstract-preview-ftn.weiyun.com/ftn_pic_abs_v3/228136058eaf2be91a7745f8ed66a67a22ec295bcf14242ce9fcd680a228adcc48efc1c329f0bf3d77a07394f8f80503?pictype=scale&from=30113&version=3.3.3.3&fname=index.bmp&size=750)](https://hebin.app.tc)
+---
+hide:
+  - footer
+  - navigation
+  - toc
+---
 
-1
+[![my blog](https://p26-dreamina-sign.byteimg.com/tos-cn-i-tb4s082cfz/da29ca8503a747f79e2fd99327d50c4c~tplv-tb4s082cfz-aigc_resize:2048:2048.webp?lk3s=4fa96020&x-expires=1769040000&x-signature=j7y3o4e6zUGbHri%2ByjfDsfZZSsU%3D)](https://wiki.6337379.xyz)
+
+## kill
+
+
