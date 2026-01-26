@@ -57,5 +57,5 @@ extra:
   
 plugins:
   - blog
-  - search
+  # - search
   - offline
